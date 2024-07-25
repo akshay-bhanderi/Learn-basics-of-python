@@ -143,3 +143,12 @@
 18. a) open()
 19. a) True
 20. a) {1, 2, 3}
+
+
+
+<div style="text-align: right;">
+    <a href="README.md">Home</a>
+</div>
+<div style="text-align: left;">
+    <a href="14.md">Prev</a>
+</div>
