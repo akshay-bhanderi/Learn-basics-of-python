@@ -1,3 +1,8 @@
+# Python Programming Guide
+
+Welcome to the comprehensive guide on Python programming. This resource is meticulously crafted to take you from the basics of Python to advanced topics, ensuring a solid foundation and a deep understanding of the language. Whether you're a beginner or looking to enhance your skills, this guide covers everything you need to know, from syntax and data structures to object-oriented programming and working with popular libraries. Dive in and start your journey to becoming a proficient Python programmer.
+
+## Table of Contents
 
 1. [Introduction to Python](1.md)
    - [What is Python?](1.md#what-is-python)
@@ -79,3 +84,6 @@
     - [Introduction to advanced topics (e.g., web development, data science)](14.md#introduction-to-advanced-topics-eg-web-development-data-science)
 
 15. [Test](15.md)
+
+## Summary
+
